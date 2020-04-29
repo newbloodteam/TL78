@@ -1,2 +1,2 @@
-# TL78
-Press here: https://github.com/orgs/newbloodteam/teams/tl78
+# TL78 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl78
